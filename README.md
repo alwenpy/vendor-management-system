@@ -78,9 +78,4 @@
 
 - **GET** and **POST** requests for all endpoints are allowed for any user.
 
-### Note
 
-- Please ensure to provide valid data and authentication tokens when making requests to these endpoints.
-- For POST requests, ensure to include the required fields in the request body.
-
-Feel free to reach out if you have any questions or need further assistance.
